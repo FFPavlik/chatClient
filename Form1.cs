@@ -18,7 +18,6 @@ namespace chatClient
         private delegate void cleaner();
         printer Printer;
         cleaner Cleaner;
-
         private Socket _serverSocket;
         private Thread _clientThread;
         private const string _serverHost = "localhost";

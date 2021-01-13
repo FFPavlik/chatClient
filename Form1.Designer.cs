@@ -107,7 +107,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(548, 385);
+            this.ClientSize = new System.Drawing.Size(548, 378);
             this.Controls.Add(this.gui_chat);
             this.Controls.Add(this.chat_send);
             this.Controls.Add(this.chat_msg);
